@@ -16,7 +16,9 @@ There are two versions of the Lambda function - one for destination applications
 8. Click “Next” at the bottom
 9. Provide the S3 URL where the Lambda function deployment zip file is located
 10. Specify the yaml file that references the deployment.zip in the S3 URI
-11. ![image](https://github.com/user-attachments/assets/7f881b00-3674-4ea4-a5bf-600647cf9c2d)
+11. <img width="704" alt="image" src="https://github.com/user-attachments/assets/bb6a2029-4375-43ee-84c6-ec35bc775b9a">
+
+
 
 12. Click “Next”
 13. Enter “Stack Name,” click next
