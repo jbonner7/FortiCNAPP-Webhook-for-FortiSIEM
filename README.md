@@ -39,7 +39,3 @@ There are two versions of the Lambda function - one for destination applications
 3. Click “Add new”
 4. Select “Webhook” at the bottom
 5. Provide a name and the function URL as Webhook URL
-6. ![image](https://github.com/user-attachments/assets/881b26ed-044a-4b87-9303-2df2e9799eec)
-
-
-
